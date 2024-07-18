@@ -1,4 +1,4 @@
-open-webui:main
+ghcr.io/open-webui/open-webui:main
 #nginx:1.26.1-perl
 #mysql:8.0.37
 #mysql:5.7.44

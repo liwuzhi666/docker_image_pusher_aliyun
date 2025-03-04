@@ -1,4 +1,4 @@
-nexus3:3.74.0
+sonatype/nexus3:3.74.0
 #alpine/ansible:2.18.1
 #apacherocketmq/rocketmq-dashboard:latest
 #支持私库
